@@ -1,0 +1,5 @@
+StepDefinations\LoginST.class
+BDD\Cucumber\Runner.class
+Utlities\ReportingManager.class
+Allpages\loginpage.class
+BasePackge\basePC.class
